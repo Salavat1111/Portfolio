@@ -46,7 +46,7 @@ function CardList({handleToggle, visibleСhange}) {
                  <a href="https://пиломатериалы63.рф/"><FaLink /></a> 
                 </div>
                 <div className='bl-wth--text--link'>
-                   <p>Данный проект делал, с целью изучение адаптивной версти под телефон.</p>
+                   <p>Данный проект делал с целью изучение адаптивной версти под телефон.</p>
                 </div>
               </div>
                 <div className={visibleСhange ? 'bl-description--text active' : 'bl-description--text'}>
