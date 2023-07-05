@@ -343,7 +343,6 @@ p, h1 {
         width: 550px;
         /* height: 690px;     */
         top: 30px;
-        bottom: auto;
     }
 }
 
@@ -449,9 +448,9 @@ p, h1 {
 }
 
 @media (max-width: 400px){
-    /* .pr{
-        width: 100%;
-    } */
+    .pr{
+        width: 98%;
+    }
     .bl--project--namber--1{
         width: 98%;
     }
