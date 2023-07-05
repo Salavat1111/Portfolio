@@ -37,10 +37,10 @@ function CardList({handleToggle, visibleСhange}) {
                 </div>
               </div>
               <div className='bl--project--namber--2'>
-                <div className='bl-wth--nb1'>
+                <div className='bl-wth--nb1--2'>
                    <p>Мой второй проект web-приложения пиломатериалы63.рф</p>
                 </div>
-                <div className="bl--link--git--figma">
+                <div className="bl--link--git--figma--2">
                  <a href="https://www.figma.com/file/sog2FedfEaQ5ZATLD0FhZO/GREEN---ЛЕС?type=design&node-id=0-1&mode=design&t=ypBmgMW4a2njveZA-0"><FaFigma /></a>
                  <a href="https://github.com/Salavat1111/green"><FaGithub /></a>
                  <a href="https://пиломатериалы63.рф/"><FaLink /></a> 
